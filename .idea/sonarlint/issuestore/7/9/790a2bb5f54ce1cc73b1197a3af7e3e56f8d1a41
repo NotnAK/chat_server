@@ -1,0 +1,10 @@
+
+q
+java:S1948")Make "msgList" transient or serializable.(‡ï–üÿÿÿÿ8¡ô¥Îˆ2J$b557be42-a5b6-41e0-b34f-8efd50cfd315
+
+java:S1989)"VHandle the following exception that could be thrown by "getOutputStream": IOException.(õ¡øÿÿÿÿÿ8©ô¥Îˆ2J$246486c8-7e79-44cd-91d6-d72fb8f0c8be
+
+java:S1989+"LHandle the following exception that could be thrown by "write": IOException.(‰õ÷¡8©ô¥Îˆ2J$c49de735-2f99-43ab-8f20-46bf979e08ee
+~	java:S125-"<This block of commented-out lines of code should be removed.(Ááµß8ªô¥Îˆ2J$70d98551-d2b0-4d1d-810a-849977e48326
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‡ï–üÿÿÿÿ8«ô¥Îˆ2J$20e908ab-08b7-464d-ad4c-b55082b1a130

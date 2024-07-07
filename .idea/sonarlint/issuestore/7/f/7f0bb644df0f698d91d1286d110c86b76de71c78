@@ -1,0 +1,7 @@
+
+q
+java:S1948")Make "msgList" transient or serializable.(‡ï–üÿÿÿÿ8ôÜÇÍ‡2J$a530d195-bd4d-4d7f-9f06-e09d729ba390
+œ
+java:S1989"YHandle the following exception that could be thrown by "requestBodyToArray": IOException.(×óÓÄ8ˆİÇÍ‡2J$10347d7a-af37-448c-b9d7-5dcd974445dd
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‡ï–üÿÿÿÿ8°İÇÍ‡2J$499dce7c-be07-4429-a133-60cb09d76bcd
